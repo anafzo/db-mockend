@@ -1,7 +1,7 @@
 {
   "Product": {
     "name": {
-      "string": [
+      [
           "Bolsa Tote Accolade",
           "Bolsa Tote Aquaria",
           "Bolsa Tote Blocket",
@@ -17,7 +17,7 @@
       ]
     },
     "description": {
-      "string": [
+      [
           "Bolsa tote, colección Accolade",
           "Bolsa tote, colección Aquaria",
           "Bolsa tote, colección Blocket",
@@ -33,7 +33,7 @@
       ]
     },
     "price": {
-      "string": [
+      [
          "$299",
          "$299",
          "$299",
@@ -49,7 +49,7 @@
         ]
     },
     "category": {
-      "string": [
+      [
           "Totes",
           "Totes",
           "Totes",
@@ -65,7 +65,7 @@
       ]
     },
     "img": {
-      "string": [
+      [
           "https://i.postimg.cc/NfwR9f2G/Tote-Accolade.png",
           "https://i.postimg.cc/GmLYK7jZ/Tote-Aquaria.png",
           "https://i.postimg.cc/PrzYms1W/Tote-Blocket.png",
