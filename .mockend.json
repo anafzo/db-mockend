@@ -1,7 +1,6 @@
 {
   "Product": {
     "name": {
-      [
           "Bolsa Tote Accolade",
           "Bolsa Tote Aquaria",
           "Bolsa Tote Blocket",
@@ -14,10 +13,8 @@
           "Bolso de mano mini Sandhamn",
           "Bolsa cruzada Success",
           "Bolsa cruzada Accolade"
-      ]
     },
     "description": {
-      [
           "Bolsa tote, colección Accolade",
           "Bolsa tote, colección Aquaria",
           "Bolsa tote, colección Blocket",
@@ -30,10 +27,8 @@
           "Bolso de mano mini, colección Sandhamn",
           "Bolsa cruzada con correo larga, colección Success",
           "Bolsa cruzada con correo larga, colección Accolade"
-      ]
     },
     "price": {
-      [
          "$299",
          "$299",
          "$299",
@@ -46,10 +41,8 @@
          "$299",
          "$299",
          "$299"
-        ]
     },
     "category": {
-      [
           "Totes",
           "Totes",
           "Totes",
@@ -62,10 +55,8 @@
           "Bolsos de mano",
           "Crossbody",
           "Crossbody"
-      ]
     },
     "img": {
-      [
           "https://i.postimg.cc/NfwR9f2G/Tote-Accolade.png",
           "https://i.postimg.cc/GmLYK7jZ/Tote-Aquaria.png",
           "https://i.postimg.cc/PrzYms1W/Tote-Blocket.png",
@@ -78,7 +69,6 @@
           "https://i.postimg.cc/pTXDd0mf/Bolso-Mano-Sandhamn-mini.png",
           "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
           "https://i.postimg.cc/Ls4Tq47g/Crossbody-Accolade.png"
-      ]
     }
   }
 }  
